@@ -1,0 +1,32 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto clone do tabnews.com.br para praticar",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielFrohlich/clone-tabnews.git"
+  },
+  "keywords": [
+    "TabNews",
+    "Noticias",
+    "News",
+    "Felipe",
+    "Dechamps"
+  ],
+  "author": "João Gabriel Fröhlich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielFrohlich/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/GabrielFrohlich/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
